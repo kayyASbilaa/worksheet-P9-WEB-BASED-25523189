@@ -4,7 +4,7 @@
 
 ---
 
-## 👤 Student Information
+## Student Information
 * **Name:** Faizah Nabila Azzahra
 * **Student ID:** 25523189
 * **Class:** Informatics 2026 (IP Class)
@@ -12,12 +12,12 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 This repository contains the implementation of an interactive **Personal Bookshelf Web Application** built for Worksheet P9. The application dynamically mounts data from JavaScript objects into the HTML page, supports category filtering using event delegation, handles book status cycling and deletion, and features real-time form validation without full page reloads.
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 1. **Dynamic Profile & Skills Rendering:**
    - Profile information and skill badges are rendered dynamically from pure data objects in `js/app.js`.
 2. **Data-Driven Table Rendering:**
@@ -37,7 +37,7 @@ This repository contains the implementation of an interactive **Personal Bookshe
 
 ---
 
-## 🛠️ File Structure
+## File Structure
 ```text
 worksheet-p9/
 ├── profile.html         # Main HTML5 document layout
